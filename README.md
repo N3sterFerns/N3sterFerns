@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nester Fern's</h1>
 <h3 align="center">I am a passionate full stack web developer and software engineer from India.</h3>
 
-<p align="right"> <img src="git-profile.png" alt="n3sterferns"/> </p>
+<p align="left"> <img src="git-profile.png" alt="n3sterferns"/> </p>
 
 - 🔭 I’m currently working on [nfcoding.in](https://nfcoding.in/)
 
